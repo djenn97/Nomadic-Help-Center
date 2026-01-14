@@ -1,4 +1,4 @@
 # Nomadic Help Center
 
-* [Overview](overview.md)
-* [Getting started](getting-started.md)
+* [Overview](readme/overview.md)
+* [Getting started](readme/getting-started.md)
