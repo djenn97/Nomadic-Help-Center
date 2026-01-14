@@ -3,7 +3,7 @@ description: >-
   Nomadic was built for solo and safe travel - where preparation and reliability
   matters on and off the trails.
 icon: mountain
-cover: .gitbook/assets/nomadic.jpg
+cover: ../.gitbook/assets/nomadic.jpg
 coverY: -19.789715202487244
 ---
 
