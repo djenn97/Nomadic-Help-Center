@@ -3,4 +3,4 @@ site_name: Nomadic Help Center
 nav:
 - Overview: overview.md
 - Getting Started: getting-started.md
-- Generate a Packing List: Generate-a-packing-list.md
+- Generate a packing list: Generate-a-packing-list.md
