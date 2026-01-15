@@ -1,7 +1,6 @@
-docs_dir: .
 site_url: https://djenn97.github.io/Nomadic-Help-Center/
 site_name: Nomadic Help Center
 nav:
 - Overview: overview.md
 - Getting Started: getting-started.md
-- Generate a packing list: generate-a-packing-list.md
+- Generate a Packing List: generate-a-packing-list.md
