@@ -1,0 +1,5 @@
+site_name: Nomadic Help Center
+nav:
+- Overview: overview.md
+- Getting Started: getting-started.md
+- Generate a packing list: generate-a-packing-list.md
