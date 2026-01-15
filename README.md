@@ -3,7 +3,7 @@ description: >-
   Nomadic was built for solo and safe travel - where preparation and reliability
   matters on and off the trails.
 icon: mountain
-cover: ../.gitbook/assets/nomadic.jpg
+cover: .gitbook/assets/nomadic.jpg
 coverY: -19.789715202487244
 ---
 
@@ -16,12 +16,12 @@ Nomadic helps solo hikers and backpackers alike plan and prepare for safer, more
 Nomadic was inspired by and designed for people who:
 
 * Travel solo or in small groups
-* Seek structured and reliable data and suggestions about their trip so they can be as prepared as possible
-* Are anywhere from first-timer or veteran day hikers, trekkers, or backpackers wanting to stay safe
+* Seek structured, reliable data and suggestions about their trip so they can be as prepared as possible
+* Range from a first-timer to well-experienced hiker, trekker, or backpacker wanting to stay safe
 
 ## Key Features
 
 * **AI-powered packing lists** customized to your trip details
-* **Offline maps** to use in areas without cell phone service (_available on the_ _mobile app only_)
-* **Trail and campsite reviews** from other travelers–with the ability to quickly scan reviews for key features like outhouses, fire pits, potable water, pull-through sites, and more
-* **Weather conditions and hazardous alerts** monitoring and notifications are available for Nomads so they're notified if their trip is susceptible to potential dangerous conditions
+* **Offline maps** to navigate areas without cell phone service (_available on the_ _mobile app only_)
+* **Trail and campsite reviews** from other travelers; quickly scan reviews for highlighted key features such as outhouses, fire pits, potable water, pull-through sites, and more
+* **Weather conditions and hazardous alerts** notifications are available for Nomads; get notified if your trip is susceptible to potential dangerous conditions
