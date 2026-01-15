@@ -1,5 +1,4 @@
-# Table of contents
+# Nomadic Help Center
 
-* [README](README.md)
-* [Nomadic Overview](readme/overview.md)
+* [Overview](overview.md)
 * [Getting started](readme/getting-started.md)
